@@ -1,2 +1,2 @@
 # Deep_Learning
-The learning from IIT Madras Courses
+Learning from IIT Madras Courses
